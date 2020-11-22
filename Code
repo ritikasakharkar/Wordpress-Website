@@ -1,0 +1,199 @@
+<!-- wp:cover {"url":"https://internshiptaskritika.files.wordpress.com/2020/11/pexels-photo-844297.jpeg","id":37,"dimRatio":10,"align":"full"} -->
+<div class="wp-block-cover alignfull has-background-dim-10 has-background-dim" style="background-image:url(https://internshiptaskritika.files.wordpress.com/2020/11/pexels-photo-844297.jpeg)"><div class="wp-block-cover__inner-container"><!-- wp:jetpack/layout-grid {"column1DesktopSpan":8,"column1DesktopOffset":2,"column1TabletSpan":8,"column1MobileSpan":4,"column2DesktopOffset":4,"className":"column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-8 column1-desktop-grid__start-3 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"textAlign":"center","level":1} -->
+<h1 class="has-text-align-center">Welcome to Blog Library</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Welcome to blog library! Read some beautiful blogs at some reasonable rates!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"contentJustification":"center"} -->
+<div class="wp-block-buttons is-content-justification-center"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="http://learn.wordpress.com" title="learn.wordpress.com">Learn more</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"align":"full","backgroundColor":"primary"} -->
+<div class="wp-block-group alignfull has-primary-background-color has-background"><div class="wp-block-group__inner-container"><!-- wp:jetpack/layout-grid {"column1DesktopSpan":12,"column1TabletSpan":8,"column1MobileSpan":4,"column2DesktopOffset":3,"className":"column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"><!-- wp:jetpack/layout-grid-column {"backgroundColor":"secondary"} -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none has-background has-secondary-background-color"><!-- wp:heading {"level":4} -->
+<h4>Preview of latest from the Blogs</h4>
+<!-- /wp:heading -->
+
+<!-- wp:jetpack/layout-grid {"column1DesktopSpan":4,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":4,"column2TabletSpan":4,"column2MobileSpan":4,"column3DesktopSpan":4,"column3TabletSpan":8,"column3MobileSpan":4} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-4 column1-desktop-grid__row-1 column2-desktop-grid__span-4 column2-desktop-grid__start-5 column2-desktop-grid__row-1 column3-desktop-grid__span-4 column3-desktop-grid__start-9 column3-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column3-tablet-grid__span-8 column3-tablet-grid__row-2 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2 column3-mobile-grid__span-4 column3-mobile-grid__row-3"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":4} -->
+<h4>BLOG 1</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is an example post, originally published as part of Blogging University. Enroll in one of our ten programs, and start your blog right. You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the […]22 Nov 2020</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":4} -->
+<h4>BLOG 2</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is an example post, originally published as part of Blogging University. Enroll in one of our ten programs, and start your blog right. You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the […]22 Nov 2020</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":4} -->
+<h4>BLOG 3</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is an example post, originally published as part of Blogging University. Enroll in one of our ten programs, and start your blog right. You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the […]22 Nov 2020</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid -->
+
+<!-- wp:jetpack/layout-grid {"column1DesktopSpan":4,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":4,"column2TabletSpan":4,"column2MobileSpan":4,"column3DesktopSpan":4,"column3TabletSpan":8,"column3MobileSpan":4} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-4 column1-desktop-grid__row-1 column2-desktop-grid__span-4 column2-desktop-grid__start-5 column2-desktop-grid__row-1 column3-desktop-grid__span-4 column3-desktop-grid__start-9 column3-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column3-tablet-grid__span-8 column3-tablet-grid__row-2 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2 column3-mobile-grid__span-4 column3-mobile-grid__row-3"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":4} -->
+<h4>BLOG 4</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is an example post, originally published as part of Blogging University. Enroll in one of our ten programs, and start your blog right. You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the […]22 Nov 2020</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":4} -->
+<h4>BLOG 5</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is an example post, originally published as part of Blogging University. Enroll in one of our ten programs, and start your blog right. You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the […]22 Nov 2020</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":4} -->
+<h4>BLOG 6</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is an example post, originally published as part of Blogging University. Enroll in one of our ten programs, and start your blog right. You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the […]22 Nov 2020</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid -->
+
+<!-- wp:jetpack/layout-grid {"column1DesktopSpan":4,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":4,"column2TabletSpan":4,"column2MobileSpan":4,"column3DesktopSpan":4,"column3TabletSpan":8,"column3MobileSpan":4} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-4 column1-desktop-grid__row-1 column2-desktop-grid__span-4 column2-desktop-grid__start-5 column2-desktop-grid__row-1 column3-desktop-grid__span-4 column3-desktop-grid__start-9 column3-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column3-tablet-grid__span-8 column3-tablet-grid__row-2 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2 column3-mobile-grid__span-4 column3-mobile-grid__row-3"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":4} -->
+<h4>BLOG 7</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is an example post, originally published as part of Blogging University. Enroll in one of our ten programs, and start your blog right. You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the […]22 Nov 2020</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":4} -->
+<h4>BLOG 8</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is an example post, originally published as part of Blogging University. Enroll in one of our ten programs, and start your blog right. You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the […]22 Nov 2020</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":4} -->
+<h4>BLOG 9</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is an example post, originally published as part of Blogging University. Enroll in one of our ten programs, and start your blog right. You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the […]22 Nov 2020</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid -->
+
+<!-- wp:jetpack/layout-grid {"column1DesktopSpan":4,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":4,"column2TabletSpan":4,"column2MobileSpan":4,"column3DesktopSpan":4,"column3TabletSpan":8,"column3MobileSpan":4} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-4 column1-desktop-grid__row-1 column2-desktop-grid__span-4 column2-desktop-grid__start-5 column2-desktop-grid__row-1 column3-desktop-grid__span-4 column3-desktop-grid__start-9 column3-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column3-tablet-grid__span-8 column3-tablet-grid__row-2 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2 column3-mobile-grid__span-4 column3-mobile-grid__row-3"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":4} -->
+<h4>BLOG 10</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is an example post, originally published as part of Blogging University. Enroll in one of our ten programs, and start your blog right. You’re going to publish a post today. Don’t worry about how your blog looks. Don’t worry if you haven’t given it a name yet, or you’re feeling overwhelmed. Just click the […]22 Nov 2020</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading -->
+<h2>READ THESE AMAZING BLOGS AT AMAZING RATES !!!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"full","backgroundColor":"foreground-dark"} -->
+<div class="wp-block-group alignfull has-foreground-dark-background-color has-background"><div class="wp-block-group__inner-container"><!-- wp:jetpack/layout-grid {"column1DesktopSpan":5,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":5,"column2TabletSpan":4,"column2MobileSpan":4,"column3DesktopOffset":3,"className":""} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-5 column1-desktop-grid__row-1 column2-desktop-grid__span-5 column2-desktop-grid__start-6 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:paragraph {"align":"left","fontSize":"huge"} -->
+<p class="has-text-align-left has-huge-font-size">Get new content delivered directly to your inbox. Before that make sure to subscribe our plan.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/layout-grid-column -->
+
+<!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:jetpack/subscriptions {"subscribePlaceholder":"Email Address","buttonOnNewLine":true,"submitButtonText":"send","buttonBackgroundColor":"primary","textColor":"background"} -->
+<div class="wp-block-jetpack-subscriptions wp-block-jetpack-subscriptions__supports-newline wp-block-jetpack-subscriptions__use-newline">[jetpack_subscription_form subscribe_placeholder="Email Address" show_subscribers_total="false" button_on_newline="true" submit_button_text="send" custom_font_size="16" custom_border_radius="0" custom_border_weight="1" custom_padding="15" custom_spacing="10" submit_button_classes="has-text-color has-background-color has-background has-primary-background-color" email_field_classes="" show_only_email_and_button="true"]</div>
+<!-- /wp:jetpack/subscriptions --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2>1 MONTH PLAN</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link">$9.99 FOR 2 ARTICLES</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2>6 MONTH PLAN</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link">$29.99 FOR 10 ARTIClES</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
